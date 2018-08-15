@@ -1,0 +1,9 @@
+Holt-Winters exponential smoothing with trend and additive seasonal component.
+
+Call:
+HoltWinters(x = train_dat, start.periods = 2)
+
+Smoothing parameters:
+ alpha: 0.6605192
+ beta : 0
+ gamma: 1
