@@ -4,4 +4,3 @@
 data:  res1
 Dickey-Fuller = -3.6304, Lag order = 288, p-value = 0.02975
 alternative hypothesis: stationary
-
